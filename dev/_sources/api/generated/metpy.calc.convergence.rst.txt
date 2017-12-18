@@ -1,0 +1,12 @@
+convergence
+======================
+
+.. currentmodule:: metpy.calc
+
+.. autofunction:: convergence
+
+.. include:: metpy.calc.convergence.examples
+
+.. raw:: html
+
+      <div style='clear:both'></div>
